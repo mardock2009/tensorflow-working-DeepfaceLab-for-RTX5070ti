@@ -8,6 +8,8 @@ tensorflow for 5070ti sm12.0 and cuda 12.8.0
  
 https://drive.google.com/file/d/1HEQDH1LiGCvZ7RIGIqEunIqSAkIVIPaj/view?usp=drive_link 
 
+![Tensorflow](https://github.com/mardock2009/tensorflow-working-DeepfaceLab-for-RTX5070ti/blob/main/tensorflow.jpg)
+
 ![Obrazek](https://github.com/mardock2009/tensorflow-working-DeepfaceLab-for-RTX5070ti/blob/main/obraz.png) 
  
 ![Deepface](https://github.com/mardock2009/tensorflow-working-DeepfaceLab-for-RTX5070ti/blob/main/deepface.jpg)
